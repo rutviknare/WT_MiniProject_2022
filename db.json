@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Rutvik Ravindra Nare",
+      "username": "rutviknjr11",
+      "email": "rutviknare16@gmail.com",
+      "phone": "9881439608",
+      "website": "www.google.com",
+      "id": 1
+    },
+    {
+      "name": "Avadhut Joshi",
+      "username": "avadhut",
+      "email": "avathut@gmail.com",
+      "phone": "9574185966",
+      "website": "www.avadhut.com",
+      "id": 2
+    },
+    {
+      "name": "Mahesh Supe",
+      "username": "mahesh1223",
+      "email": "mahesh@gmail.com",
+      "phone": "7584963215",
+      "website": "www.mahesh.com",
+      "id": 3
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "username": "ronaldo07",
+      "email": "ronaldo@gmail.com",
+      "phone": "7885469632",
+      "website": "www.ronaldo.com",
+      "id": 4
+    }
+  ]
+}
